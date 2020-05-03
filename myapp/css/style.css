@@ -1,0 +1,22 @@
+body {
+    background-image:url("bg.jpg");
+
+		background-position: center top;
+		background-size: 1920px 1080px;
+}
+
+label {
+	display: block;
+	margin: 5px 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+td,
+th {
+	padding: 5px;
+	border-bottom: 1px solid #aaa;
+}
